@@ -6,7 +6,7 @@ from folium.plugins import MarkerCluster
 
 # 2. Definir el área geográfica y las etiquetas de las características a descargar
 place = "Medellin, Colombia"
-tags = {"amenity": "fuell"}
+tags = {"amenity": "fuel"}
 description = "Gasolineras"
 zoom_level = 13
 
